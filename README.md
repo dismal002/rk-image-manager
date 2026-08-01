@@ -1,6 +1,6 @@
 # rkimgman
 
-A C tool for performing operations on Rockchip images including unpacking and packing (RKFW and RKAF formats).
+A C tool for performing operations on Rockchip images including unpacking and packing (RKFW and RKAF formats). This project is inspired by and is (nearly) equivalent to [afptoolrs](https://github.com/suyulin/afptool-rs) however, this program is written in C to reduce overhead
 
 ## Features
 
